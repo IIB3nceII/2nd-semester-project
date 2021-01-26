@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="memoria_2020_04_17.Memoria_NincsIlyenElemExceptoin">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Memoria_KifutottATartomanybolException">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Memoria_VanMarIilyenValtozoEzenProgramnalException">
+    <Position X="13.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Memoria_AzElemTombException">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Memoria_AzElemNemTombException">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Memoria_TombIndexHataronKivulEsikException">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Memoria_TipusNemEgyezikException">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.ListaElem&lt;T&gt;">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAAAAACAACAAgAEAABABAAAQAAAAEQBAAAAE=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.LancoltLista&lt;T&gt;">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAACgAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Memoria">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIgAAAACAAAAwAAAEAAQQREAAAgAAAAAEAgAIAAQAA=</HashCode>
+      <FileName>MemoriaKezeles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Program">
+    <Position X="17.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAACAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Valtozo">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIgCAEAIAgAAIAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valtozok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Egesz">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIAAAACAAIAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valtozok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Bajt">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIAAAACAAIAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valtozok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Karakter">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIAAAACAAIAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valtozok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Tort">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIAAAACAAIAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valtozok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="memoria_2020_04_17.Szoveg">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIAAAACAAIAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valtozok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

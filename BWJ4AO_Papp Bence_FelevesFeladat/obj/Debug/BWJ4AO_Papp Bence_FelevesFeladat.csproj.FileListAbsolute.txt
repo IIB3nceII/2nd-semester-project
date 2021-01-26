@@ -1,0 +1,14 @@
+E:\Nik\Prog2\feleves feladat\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.csprojAssemblyReference.cache
+E:\Nik\Prog2\feleves feladat\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.csproj.CoreCompileInputs.cache
+E:\Nik\Prog2\feleves feladat\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\bin\Debug\BWJ4AO_Papp Bence_FelevesFeladat.exe.config
+E:\Nik\Prog2\feleves feladat\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\bin\Debug\BWJ4AO_Papp Bence_FelevesFeladat.exe
+E:\Nik\Prog2\feleves feladat\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\bin\Debug\BWJ4AO_Papp Bence_FelevesFeladat.pdb
+E:\Nik\Prog2\feleves feladat\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.exe
+E:\Nik\Prog2\feleves feladat\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.pdb
+D:\NIK\prog2\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\bin\Debug\BWJ4AO_Papp Bence_FelevesFeladat.exe.config
+D:\NIK\prog2\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\bin\Debug\BWJ4AO_Papp Bence_FelevesFeladat.exe
+D:\NIK\prog2\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\bin\Debug\BWJ4AO_Papp Bence_FelevesFeladat.pdb
+D:\NIK\prog2\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.csprojAssemblyReference.cache
+D:\NIK\prog2\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.csproj.CoreCompileInputs.cache
+D:\NIK\prog2\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.exe
+D:\NIK\prog2\BWJ4AO_Papp Bence_FelevesFeladat\BWJ4AO_Papp Bence_FelevesFeladat\obj\Debug\BWJ4AO_Papp Bence_FelevesFeladat.pdb
